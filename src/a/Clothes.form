@@ -289,7 +289,7 @@
         <Component class="javax.swing.JLabel" name="jLabel1">
           <Properties>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\prathamesh\Documents\NetBeansProjects\LoginAndReg\images\Cothes\shirt.jpg"/>
+              <Image iconType="2" name="C:\Users\prathamesh\Documents\NetBeansProjects\LoginAndReg\images\clothes\shirt.jpg"/>
             </Property>
             <Property name="text" type="java.lang.String" value="jLabel1"/>
           </Properties>
@@ -297,7 +297,7 @@
         <Component class="javax.swing.JLabel" name="jLabel2">
           <Properties>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\prathamesh\Documents\NetBeansProjects\LoginAndReg\images\Cothes\baby.jpg"/>
+              <Image iconType="2" name="C:\Users\prathamesh\Documents\NetBeansProjects\LoginAndReg\images\clothes\baby.jpg"/>
             </Property>
             <Property name="text" type="java.lang.String" value="jLabel1"/>
           </Properties>
@@ -305,7 +305,7 @@
         <Component class="javax.swing.JLabel" name="jLabel4">
           <Properties>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\prathamesh\Documents\NetBeansProjects\LoginAndReg\images\Cothes\Black_hoodie.jpg"/>
+              <Image iconType="2" name="C:\Users\prathamesh\Documents\NetBeansProjects\LoginAndReg\images\clothes\Black_hoodie.jpg"/>
             </Property>
             <Property name="text" type="java.lang.String" value="jLabel1"/>
           </Properties>
@@ -313,7 +313,7 @@
         <Component class="javax.swing.JLabel" name="jLabel6">
           <Properties>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\prathamesh\Documents\NetBeansProjects\LoginAndReg\images\Cothes\frock.jpg"/>
+              <Image iconType="2" name="C:\Users\prathamesh\Documents\NetBeansProjects\LoginAndReg\images\clothes\frock.jpg"/>
             </Property>
             <Property name="text" type="java.lang.String" value="jLabel1"/>
           </Properties>
@@ -321,7 +321,7 @@
         <Component class="javax.swing.JLabel" name="jLabel7">
           <Properties>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\prathamesh\Documents\NetBeansProjects\LoginAndReg\images\Cothes\girldress.jpg"/>
+              <Image iconType="2" name="C:\Users\prathamesh\Documents\NetBeansProjects\LoginAndReg\images\clothes\girldress.jpg"/>
             </Property>
             <Property name="text" type="java.lang.String" value="jLabel1"/>
           </Properties>
@@ -329,7 +329,7 @@
         <Component class="javax.swing.JLabel" name="jLabel10">
           <Properties>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\prathamesh\Documents\NetBeansProjects\LoginAndReg\images\Cothes\jeans.jpg"/>
+              <Image iconType="2" name="C:\Users\prathamesh\Documents\NetBeansProjects\LoginAndReg\images\clothes\jeans.jpg"/>
             </Property>
             <Property name="text" type="java.lang.String" value="jLabel1"/>
           </Properties>

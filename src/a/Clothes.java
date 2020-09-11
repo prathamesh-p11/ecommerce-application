@@ -87,22 +87,22 @@ public class Clothes extends javax.swing.JFrame {
         jPanel4.setBackground(new java.awt.Color(0, 51, 102));
         jPanel4.setForeground(new java.awt.Color(204, 204, 204));
 
-        jLabel1.setIcon(new javax.swing.ImageIcon("C:\\Users\\prathamesh\\Documents\\NetBeansProjects\\LoginAndReg\\images\\Cothes\\shirt.jpg")); // NOI18N
+        jLabel1.setIcon(new javax.swing.ImageIcon("C:\\Users\\prathamesh\\Documents\\NetBeansProjects\\LoginAndReg\\images\\clothes\\shirt.jpg")); // NOI18N
         jLabel1.setText("jLabel1");
 
-        jLabel2.setIcon(new javax.swing.ImageIcon("C:\\Users\\prathamesh\\Documents\\NetBeansProjects\\LoginAndReg\\images\\Cothes\\baby.jpg")); // NOI18N
+        jLabel2.setIcon(new javax.swing.ImageIcon("C:\\Users\\prathamesh\\Documents\\NetBeansProjects\\LoginAndReg\\images\\clothes\\baby.jpg")); // NOI18N
         jLabel2.setText("jLabel1");
 
-        jLabel4.setIcon(new javax.swing.ImageIcon("C:\\Users\\prathamesh\\Documents\\NetBeansProjects\\LoginAndReg\\images\\Cothes\\Black_hoodie.jpg")); // NOI18N
+        jLabel4.setIcon(new javax.swing.ImageIcon("C:\\Users\\prathamesh\\Documents\\NetBeansProjects\\LoginAndReg\\images\\clothes\\Black_hoodie.jpg")); // NOI18N
         jLabel4.setText("jLabel1");
 
-        jLabel6.setIcon(new javax.swing.ImageIcon("C:\\Users\\prathamesh\\Documents\\NetBeansProjects\\LoginAndReg\\images\\Cothes\\frock.jpg")); // NOI18N
+        jLabel6.setIcon(new javax.swing.ImageIcon("C:\\Users\\prathamesh\\Documents\\NetBeansProjects\\LoginAndReg\\images\\clothes\\frock.jpg")); // NOI18N
         jLabel6.setText("jLabel1");
 
-        jLabel7.setIcon(new javax.swing.ImageIcon("C:\\Users\\prathamesh\\Documents\\NetBeansProjects\\LoginAndReg\\images\\Cothes\\girldress.jpg")); // NOI18N
+        jLabel7.setIcon(new javax.swing.ImageIcon("C:\\Users\\prathamesh\\Documents\\NetBeansProjects\\LoginAndReg\\images\\clothes\\girldress.jpg")); // NOI18N
         jLabel7.setText("jLabel1");
 
-        jLabel10.setIcon(new javax.swing.ImageIcon("C:\\Users\\prathamesh\\Documents\\NetBeansProjects\\LoginAndReg\\images\\Cothes\\jeans.jpg")); // NOI18N
+        jLabel10.setIcon(new javax.swing.ImageIcon("C:\\Users\\prathamesh\\Documents\\NetBeansProjects\\LoginAndReg\\images\\clothes\\jeans.jpg")); // NOI18N
         jLabel10.setText("jLabel1");
 
         jButton7.setBackground(new java.awt.Color(0, 153, 0));
